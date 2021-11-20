@@ -18,7 +18,7 @@ For a python only PC version see here: https://github.com/mechatronicsguy/Spiral
 * Notes played stay visible for a time as a 'histogram'. Key signature can be inferred from this
 * Different instruments (midi channels) are different colours. Can see contributions of each instrument to the whole
 
-
+https://youtu.be/7xVirr0APKk
 
 https://user-images.githubusercontent.com/955307/142712878-9c68f2e3-aa6e-4c0c-95f9-73870babf07c.mp4
 
