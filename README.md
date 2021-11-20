@@ -1,6 +1,8 @@
 # SpiralMusic_Teensy
 A hardware device for visualizing music in a spiral. Uses a teensy with audio sheild, and WS2812 pixels for display. 
 
+For a python only PC version see here: https://github.com/mechatronicsguy/SpiralMusic_python
+
 ## Features: 
 * Simple hardware & low cost
 * Synthesis is entirely onboard, does not use PC sound
