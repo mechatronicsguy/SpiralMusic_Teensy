@@ -3,6 +3,10 @@ A hardware device for visualizing music in a spiral. Uses a teensy with audio sh
 
 ![Spiral video trimmed](https://github.com/mechatronicsguy/SpiralMusic_Teensy/blob/main/pics/Spiral%20video%20compressed%20v01.mp4?raw=true)
 
+
+https://user-images.githubusercontent.com/955307/142712840-e1e318db-9bb0-42e4-b04f-cfffaf786921.mp4
+
+
 ![Hex layout video](https://github.com/mechatronicsguy/SpiralMusic_Teensy/blob/main/pics/hex%20layout%20video%20v01.gif?raw=true)
 
 ![Setup on desk](https://github.com/mechatronicsguy/SpiralMusic_Teensy/blob/main/pics/Setup%20on%20desk%20v01.jpg?raw=true)
