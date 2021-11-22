@@ -3,6 +3,20 @@ A hardware device for visualizing music in a spiral. Uses a teensy with audio sh
 
 For a python only PC version see here: https://github.com/mechatronicsguy/SpiralMusic_python
 
+## Who is this software for?
+
+People like me, who kinda like music, but are often confused by the notation. 
+
+e.g. Take this picture: Are these **three *different* chords**, or actually **the *same* chord voiced three different ways**? 
+![Musical notation](https://github.com/mechatronicsguy/SpiralMusic_Teensy/blob/main/pics/4tcqogmi_transposed_v01.png?raw=true)
+
+I could stare at this for a couple of minutes and still not be 100% sure. 
+
+
+But I could tell immediately after seeing this: 
+
+![Same Musical notation in spiral GIF form](https://github.com/mechatronicsguy/SpiralMusic_Teensy/blob/main/pics/4tcqogmi%20animation%20full%20v01.gif?raw=true)
+
 ## Features: 
 * Simple hardware & low cost
 * Synthesis is entirely onboard, does not use PC sound
