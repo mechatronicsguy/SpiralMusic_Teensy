@@ -8,6 +8,7 @@ For a python only PC version see here: https://github.com/mechatronicsguy/Spiral
 Anyone (like me) that likes music, but becomes confused by the notation. 
 
 e.g. Take this picture: Are these **three *different* chords**, or is it actually **the *same* chord voiced in three different ways**? 
+
 ![Musical notation](https://github.com/mechatronicsguy/SpiralMusic_Teensy/blob/main/pics/4tcqogmi_transposed_v01.png?raw=true)
 
 I could stare at this for a couple of minutes and still not be 100% sure. 
