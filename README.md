@@ -50,3 +50,10 @@ Can also work for non-spiral layouts (e.g. Euler's Tonnetz, Accordion, Jancko, e
 ![Hex layout video](https://github.com/mechatronicsguy/SpiralMusic_Teensy/blob/main/pics/hex%20layout%20video%20v01.gif?raw=true)
 
 
+More videos with examples here: 
+
+https://www.youtube.com/watch?v=H3ucHiadx2w
+
+https://www.youtube.com/watch?v=Z-b77PsKRJo
+
+https://www.youtube.com/watch?v=iqt4l5bo5yQ
